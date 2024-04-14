@@ -633,3 +633,11 @@ video {
 .text-center {
   text-align: center;
 }
+
+.underline {
+  text-decoration-line: underline;
+}
+
+.underline-offset-2 {
+  text-underline-offset: 2px;
+}
